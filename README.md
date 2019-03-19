@@ -74,6 +74,10 @@ At this point your microservice is production ready (if you use a proper DB and 
 ### Step 12
 * Create a DELETE endpoint (/entities) to delete an existent entity on your DB
 
+## Solution
+You can find an [example](https://github.com/senzzzi/spring-boot-ws) of a solution to this workshop. This repo will be made public at the end of the Workshop.
 
+## Presentation
+The presentation can be found [here](https://docs.google.com/presentation/d/1mKKjW50N9P-BwXD8OF_hyqoRyhjOsIOracaXbz0F8io/edit?usp=sharing)
 
 
